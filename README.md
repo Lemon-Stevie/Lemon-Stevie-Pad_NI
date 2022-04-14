@@ -5,4 +5,4 @@
 Lemon-Stevie-Pad custom keypad layout settings for Numberpad input from 
 https://flightsim.to/file/29007/numberpad-input
 
-#See https://github.com/Lemon-Stevie/Lemon-Stevie-Pad
+#See readme here https://github.com/Lemon-Stevie/Lemon-Stevie-Pad
